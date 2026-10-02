@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+<rect width="900" height="520" rx="28" fill="#030506"/><rect x="90" y="80" width="720" height="350" rx="16" fill="#06100c" stroke="#00ff9c" stroke-opacity=".5"/>
+<circle cx="125" cy="112" r="7" fill="#ff5c6c"/><circle cx="150" cy="112" r="7" fill="#ffd15c"/><circle cx="175" cy="112" r="7" fill="#00ff9c"/>
+<text x="125" y="180" fill="#00ff9c" font-family="monospace" font-size="20">$ web-scan --target authorized-lab</text>
+<text x="125" y="220" fill="#8ee9c5" font-family="monospace" font-size="18">[+] discovering endpoints...</text>
+<text x="125" y="255" fill="#8ee9c5" font-family="monospace" font-size="18">[+] reviewing security headers...</text>
+<text x="125" y="290" fill="#8ee9c5" font-family="monospace" font-size="18">[+] generating report...</text>
+<text x="125" y="355" fill="#00d9ff" font-family="monospace" font-size="21">AUTHORIZED SECURITY TESTING</text></svg>

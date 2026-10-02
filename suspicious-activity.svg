@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+<rect width="900" height="520" rx="28" fill="#08070b"/><g stroke="#ff3b81" opacity=".2"><path d="M0 100h900M0 200h900M0 300h900M0 400h900"/></g>
+<path d="M110 370L220 300 300 330 390 190 480 260 580 150 690 205 790 100" fill="none" stroke="#ff3b81" stroke-width="6"/>
+<circle cx="580" cy="150" r="12" fill="#ff3b81"/><path d="M580 75v60M580 165v60" stroke="#ff3b81" stroke-width="4"/>
+<text x="450" y="430" text-anchor="middle" fill="#ffe8f1" font-family="monospace" font-size="30" font-weight="bold">SUSPICIOUS ACTIVITY</text>
+<text x="450" y="465" text-anchor="middle" fill="#ff8fb6" font-family="monospace" font-size="17">DETECTION • ALERTS • ANALYSIS</text></svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+<rect width="900" height="520" rx="28" fill="#05090b"/><rect x="300" y="55" width="300" height="410" rx="38" fill="#0a1517" stroke="#00ff9c" stroke-width="3"/>
+<rect x="330" y="105" width="240" height="280" rx="14" fill="#03100c"/><circle cx="450" cy="84" r="5" fill="#00ff9c"/>
+<path d="M390 255l42 42 84-105" fill="none" stroke="#00ff9c" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="450" y="425" text-anchor="middle" fill="#eafff7" font-family="monospace" font-size="22">MOBILE SECURITY RESEARCH</text></svg>

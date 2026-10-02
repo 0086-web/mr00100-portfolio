@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+<rect width="900" height="520" rx="28" fill="#04090d"/><g fill="none" stroke="#00d9ff" opacity=".22"><circle cx="450" cy="260" r="170"/><circle cx="450" cy="260" r="115"/><path d="M100 260h700M450 70v380M180 120l540 280M180 400l540-280"/></g>
+<rect x="240" y="150" width="420" height="220" rx="22" fill="#071923" stroke="#00d9ff" stroke-width="2"/>
+<text x="450" y="225" text-anchor="middle" fill="#00d9ff" font-family="monospace" font-size="48" font-weight="bold">MR00100</text>
+<text x="450" y="265" text-anchor="middle" fill="#dffcff" font-family="monospace" font-size="25">AUTOMATION AI</text>
+<path d="M310 310h280" stroke="#00d9ff" stroke-width="7" stroke-linecap="round"/>
+<circle cx="310" cy="310" r="12" fill="#00d9ff"/><circle cx="590" cy="310" r="12" fill="#00d9ff"/></svg>

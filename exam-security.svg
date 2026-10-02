@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#06130f"/><stop offset="1" stop-color="#06101a"/></linearGradient></defs>
+<rect width="900" height="520" rx="28" fill="url(#g)"/><g opacity=".18" stroke="#00ff9c"><path d="M0 80h900M0 160h900M0 240h900M0 320h900M0 400h900"/><path d="M100 0v520M200 0v520M300 0v520M400 0v520M500 0v520M600 0v520M700 0v520M800 0v520"/></g>
+<rect x="100" y="85" width="700" height="350" rx="18" fill="#071b16" stroke="#00ff9c" stroke-opacity=".55"/>
+<circle cx="450" cy="150" r="42" fill="none" stroke="#00ff9c" stroke-width="6"/><path d="M420 150l20 20 42-48" fill="none" stroke="#00ff9c" stroke-width="7"/>
+<text x="450" y="250" text-anchor="middle" fill="#eafff7" font-family="monospace" font-size="34" font-weight="bold">EXAM INTEGRITY</text>
+<text x="450" y="292" text-anchor="middle" fill="#6ee8c0" font-family="monospace" font-size="18">MONITORING • VERIFICATION • AUDIT</text>
+<rect x="260" y="340" width="380" height="8" rx="4" fill="#00ff9c" opacity=".65"/></svg>
